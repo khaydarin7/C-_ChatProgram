@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Ware.Client.Properties
+namespace MultiChatServer.Properties
 {
 
 

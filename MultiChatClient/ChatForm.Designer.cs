@@ -1,4 +1,4 @@
-﻿namespace ChatProgram
+﻿namespace MultiChatClient
 {
     partial class Form1
     {

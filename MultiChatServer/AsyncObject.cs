@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Ware.Common.Net
+namespace MultiChatServer
 {
-    class MemoryBuffer
+    class AsyncObject
     {
     }
 }

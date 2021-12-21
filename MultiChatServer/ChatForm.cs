@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Ware.Client.Forms
+namespace MultiChatServer
 {
-    public partial class ConnectForm : Form
+    public partial class Form1 : Form
     {
-        public ConnectForm()
+        public Form1()
         {
             InitializeComponent();
         }

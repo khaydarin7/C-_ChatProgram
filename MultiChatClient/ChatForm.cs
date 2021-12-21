@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace ChatProgram
+namespace MultiChatClient
 {
-    public partial class ImageViewerForm : Form
+    public partial class Form1 : Form
     {
-        public ImageViewerForm()
+        public Form1()
         {
             InitializeComponent();
         }

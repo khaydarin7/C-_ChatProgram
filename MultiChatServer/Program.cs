@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Ware.Client
+namespace MultiChatServer
 {
     static class Program
     {
